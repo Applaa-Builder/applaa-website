@@ -183,7 +183,7 @@ export default function Home() {
             </button>
           </div>
         </div>
-      </section>
+      </section>https://github.com/Applaa-Builder/applaa-website.git
 
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-12">
