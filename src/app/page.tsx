@@ -23,7 +23,7 @@ export default function Home() {
                 with AI
               </h2>
               <p className="text-xl md:text-2xl text-gray-600 max-w-4xl mx-auto">
-                The Only App Builder You'll Ever Need. From React to Flutter, WordPress to Unity - 
+                The Only App Builder You&apos;ll Ever Need. From React to Flutter, WordPress to Unity - 
                 <strong className="text-gray-900"> 100+ Frameworks, Unlimited Possibilities</strong>
               </p>
             </div>
@@ -145,8 +145,8 @@ export default function Home() {
         <div className="max-w-4xl mx-auto px-4 text-center">
           <h3 className="text-4xl font-bold mb-6">Our Vision</h3>
           <p className="text-xl mb-8 opacity-90">
-            "To democratize app development by making ANY framework accessible to ANYONE, 
-            regardless of technical expertise."
+            &ldquo;To democratize app development by making ANY framework accessible to ANYONE, 
+            regardless of technical expertise.&rdquo;
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
             <div>
