@@ -72,3 +72,4 @@ Build a high-conversion, Vercel-hosted marketing website that presents Applaa’
 - Sign-in works; account page shows subscription status
 - Stripe test checkout succeeds; webhook updates status
 - Lighthouse score 90%+
+

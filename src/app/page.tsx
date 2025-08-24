@@ -16,6 +16,7 @@ export default function Home() {
             {/* Navigation Links */}
             <div className="hidden md:flex items-center space-x-8">
               <a href="#features" className="text-gray-600 hover:text-gray-900">Features</a>
+              <a href="/comparison" className="text-gray-600 hover:text-gray-900">vs Competitors</a>
               <a href="#pricing" className="text-gray-600 hover:text-gray-900">Pricing</a>
               <a href="#roadmap" className="text-gray-600 hover:text-gray-900">Roadmap</a>
               <button className="bg-orange-500 text-white px-4 py-2 rounded-lg hover:bg-orange-600">
